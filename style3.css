@@ -1,0 +1,19 @@
+.hero-unit {
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    color: inherit;
+    background-color: rgb(238, 238, 238);
+    border-radius: 6px;
+    padding: 60px;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(51, 51, 51);
+}
+html {
+    font-size: 100%;
+}

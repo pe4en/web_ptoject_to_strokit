@@ -1,0 +1,118 @@
+
+li#tab-wordpress {
+    background-position: left -30px;
+}
+li#tab-wordpress a {
+     background-position: right -30px;
+ }
+a {
+    color: rgb(0, 119, 153);
+    text-decoration: none;
+}
+li#tab-my_country  a {
+    background-position: left -30px;
+}
+a {
+    color: rgb(0, 119, 153);
+    text-decoration: none;
+}
+li#tab-my_country  {
+    background-position: left -30px;
+}
+a {
+    color: rgb(0, 119, 153);
+    text-decoration: none;
+}
+#container-shadows {
+    text-align: center;
+}
+li#tab-facebook  {
+    background-position: left -60px;
+}
+li#tab-my_city a {
+    background-position: right -120px;
+}
+li#tab-my_city  {
+    background-position: right -120px;
+}
+body {
+    text-align: center;
+    font-family: Verdana,Tahoma,Arial,serif;
+    font-size: 100%;
+}
+li#tab-facebook a {
+    background-position: right -60px;
+}
+div#tab-links li {
+    float: left;
+    display: block;
+    background-repeat: no-repeat;
+}
+li#tab-ogrnot {
+    background-position: left -90px;
+}
+li#tab-ogrnot a {
+    background-position: right -90px;
+}
+
+
+div#tab-links, div#tab-links li, div#tab-links a {
+    background-image: url("tabs.gif");
+}
+
+#layer{
+    position    :relative;;
+    top     :30px;
+    left        :-550px;
+}
+#coin {
+    position    :relative;
+    top     :-800px;
+    left : 550px;
+}
+#advert {
+    position    :relative;
+    top     :5px;
+    left : 6px;
+}
+#advert1 {
+    position    :relative;
+    top     :-450px;
+    left : -580px;
+}
+#advert3 {
+    position    :relative;
+    top     :-700px;
+    left : -580px;
+}
+#advert2 {
+    position    :relative;
+    top     :-740px;
+    left : -300px;
+}
+
+div#tab-links {
+    width: 49.5em;
+    height: 30px;
+}
+
+body {
+    line-height: 1;
+    color: black;
+}
+
+div#tab-links a {
+    height: 30px;
+
+    float: left;
+    margin: 0px 0px 0px 15px;
+    color: black;
+    padding: 0px 15px 0px 0px;
+    line-height: 25px;
+}
+div#tab-links li {
+    float: left;
+    display: block;
+    background-repeat: no-repeat;
+}
+
